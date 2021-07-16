@@ -4,3 +4,6 @@
 [submodule "Nuclear5"]
 	path = Nuclear5
 	url = https://github.com/KamranEllahi/Nuclear5.git
+[submodule "Nuclear6"]
+	path = Nuclear6
+	url = https://github.com/KamranEllahi/Nuclear6.git
